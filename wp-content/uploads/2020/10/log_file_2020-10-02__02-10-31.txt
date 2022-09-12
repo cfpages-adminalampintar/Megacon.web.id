@@ -1,0 +1,46 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://wordpress-474624-1517607.cloudwaysapps.com
+Data file = /home/474624.cloudwaysapps.com/zucncvbsrc/public_html/wp-content/themes/spark-construction-lite/offshorethemes/ocdi/sparkconstructionlite.xml
+Widget file = /home/474624.cloudwaysapps.com/zucncvbsrc/public_html/wp-content/themes/spark-construction-lite/offshorethemes/ocdi/sparkconstructionlite.wie
+Customizer file = /home/474624.cloudwaysapps.com/zucncvbsrc/public_html/wp-content/themes/spark-construction-lite/offshorethemes/ocdi/sparkconstructionlite.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Widget Area : 
+
+Search - Search Site - Imported
+Recent Posts - Recent Posts - Imported
+Recent Comments - Recent Comments - Imported
+Categories - Categories - Imported
+Tag Cloud - No Title - Imported
+
+Footer Widget Area : 
+
+SC: Comapany Info - About Compnay - Imported
+Tag Cloud - Tags - Imported
+Navigation Menu - Quick Links - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
